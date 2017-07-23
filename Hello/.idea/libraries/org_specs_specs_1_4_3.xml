@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.specs:specs:1.4.3" type="repository">
+    <properties maven-id="org.specs:specs:1.4.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/specs-1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/specs-1.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
