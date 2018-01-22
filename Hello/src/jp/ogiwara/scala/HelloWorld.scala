@@ -20,11 +20,12 @@ object HelloWorld extends App{
   //val f = (x: Int) ⇒ x*2
   //右側束縛.exec()
   //MatchTest.exec()
-  val class1 = new jp.ogiwara.scala.Class1
+  /*val class1 = new jp.ogiwara.scala.Class1
   class1 match {
     case Class1(label) => println(label)
-  }
-  println(class1.field)
+  }*/
+  //println(class1.field)
+  println("Hello, world")
 }
 
 
@@ -124,7 +125,7 @@ object Function{
 object OptionTest{
   def exec(){
     val map = Map(
-      "Taro" -> 12,
+      "Taro" → 12,
       "Jiro" -> 10,
       "Sub" -> 9
     )

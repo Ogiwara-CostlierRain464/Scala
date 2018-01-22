@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ogiwara\Documents\GitHub\Scala\connpass\hello\src\main\scala\app\model\TicketRepository.scala:33:23: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : app.model.TicketStatus[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m      case t@Bug(_,_, `status`,_) => t[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
